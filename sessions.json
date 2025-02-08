@@ -1,0 +1,37 @@
+{
+  "sessions": [
+    {
+      "id": "695606474:695606474",
+      "data": {
+        "__scenes": {},
+        "name": "",
+        "isRegistered": true,
+        "numberPhone": "",
+        "isBooked": true,
+        "step": "addOccupiedSlot",
+        "appointmentIdForEdit": ""
+      }
+    },
+    {
+      "id": "864132244:864132244",
+      "data": {
+        "__scenes": {},
+        "name": "Тест тест",
+        "numberPhone": "+79231535573",
+        "isRegistered": true,
+        "step": null
+      }
+    },
+    {
+      "id": "1690242447:1690242447",
+      "data": {
+        "__scenes": {},
+        "name": "",
+        "numberPhone": "",
+        "isRegistered": true,
+        "appointmentIdForEdit": "93003d53-6ab1-47f3-badf-5cfb17ba8596",
+        "step": null
+      }
+    }
+  ]
+}
